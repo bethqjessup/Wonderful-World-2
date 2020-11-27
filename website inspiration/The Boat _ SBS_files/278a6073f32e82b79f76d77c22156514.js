@@ -1,0 +1,2 @@
+Bootstrapper.bindImmediate(function(){var Bootstrapper=window["Bootstrapper"];var ensightenOptions=Bootstrapper.ensightenOptions;(function(i,s,o,r,a,m){var g="https://benchtag2.co/benchmarketingsmarttag/get?311d14c21a0f5ea92494b41ab2a77eb530214fbb0497a6fef37edcbd278d9f3a";i["TagObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date;a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=0;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","bs")},
+2839599,443610);

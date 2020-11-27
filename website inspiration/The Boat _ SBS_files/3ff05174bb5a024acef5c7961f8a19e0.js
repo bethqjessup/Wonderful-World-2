@@ -1,0 +1,1 @@
+Bootstrapper.bindImmediate(function(){var Bootstrapper=window["Bootstrapper"];var ensightenOptions=Bootstrapper.ensightenOptions;Bootstrapper.on("mouseover",".field.field-name-field-abstract.field-type-text-long.field-label-above",function(){Bootstrapper.ensEvent.trigger("Button Click Homepage",this)})},-1,-1);
